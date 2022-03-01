@@ -1,7 +1,7 @@
 {
   "name": "fullstackcourse",
   "version": "1.0.0",
-  "description": "",
+  "description": "- npm init\r  - npm install lite-server --save-dev\r  - npm start\r  - npm install\r  - npm install bootstrap@4.0.0 --save\r  - npm install jquery@3.3.1 popper.js@1.12.9 --save",
   "main": "index.js",
   "scripts": {
     "start": "npm run lite",
